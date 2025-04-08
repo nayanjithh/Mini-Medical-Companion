@@ -5,7 +5,7 @@ import io
 import pygame
 
 recognizer = sr.Recognizer()
-GOOGLE_CLOUD_API = "AIzaSyDncunQw_iIj5afY5S1WYhzRkp3p3Tchzo"
+GOOGLE_CLOUD_API = <YOUR_GOOGLE_CLOUD_API_KEY>
 speaking = False
 
 # 🎤 Initialize mic and source ONCE when the module is loaded
