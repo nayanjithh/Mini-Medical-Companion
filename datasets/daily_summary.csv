@@ -1,0 +1,7 @@
+Device-ID/User-ID,Timestamp,Type,Issue Detected,Severity,Details
+D001,2025-04-08 09:15,Health,High Blood Pressure,Medium,BP reading was 150/95 in the morning.
+D001,2025-04-08 12:45,Safety,Fall Detected,High,Fall in the bathroom. Impact level high.
+D002,2025-04-08 10:00,Health,Low SpO₂ Level,Low,Oxygen saturation dropped to 91%.
+D002,2025-04-08 14:30,Safety,Inactivity,Low,User inactive for 120 seconds in living room.
+D003,2025-04-07 11:10,Health,High Glucose,Medium,Glucose reading 190 mg/dL.
+D001,2025-04-08 17:30,Health,Skipped Medication,Medium,User did not confirm morning medication.
