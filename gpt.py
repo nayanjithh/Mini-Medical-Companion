@@ -4,7 +4,7 @@ import mic_and_speaker as ms
 
 memory = []
 
-GEMINI_AI_API = "AIzaSyAkGVJB36ik2xmUOBjATEk07RAwaouywFg"
+GEMINI_AI_API = <YOUR_GEMINI_API_KEY>
 
 genai.configure(api_key = GEMINI_AI_API)
 model = genai.GenerativeModel('gemini-2.0-flash')
